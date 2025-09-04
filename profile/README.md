@@ -30,6 +30,5 @@ Keep in mind that you need to be in this repository's folder.
 
 ## Some screenshots of the app
 
-<img width="3000" height="1876" alt="image" src="https://github.com/user-attachments/assets/8e64ff9a-5dae-4654-9af7-bdc2451209ba" />
-<br />
+<img width="3000" height="1876" style="margin-bottom: 1em;" alt="image" src="https://github.com/user-attachments/assets/8e64ff9a-5dae-4654-9af7-bdc2451209ba" />
 <img width="3000" height="1876" alt="Screenshot From 2025-09-04 13-27-50" src="https://github.com/user-attachments/assets/7f090779-15c3-4eda-b36c-7d6a89f5c7a9" />
